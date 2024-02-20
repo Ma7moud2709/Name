@@ -1,0 +1,27 @@
+.item {
+    border: 2px solid cadetblue;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 5px;
+    margin-right: 20px;
+}
+
+.show {
+    background-color: green;
+}
+
+.delete {
+    background-color: red;
+}
+
+h2 {
+    span {
+        color: red;
+    }
+}
